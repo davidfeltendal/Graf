@@ -1,6 +1,0 @@
-C:\Users\David\Desktop\EksamensForberedelse\GrafEksamen\GrafEksamen\bin\Debug\GrafEksamen.exe.config
-C:\Users\David\Desktop\EksamensForberedelse\GrafEksamen\GrafEksamen\bin\Debug\GrafEksamen.exe
-C:\Users\David\Desktop\EksamensForberedelse\GrafEksamen\GrafEksamen\bin\Debug\GrafEksamen.pdb
-C:\Users\David\Desktop\EksamensForberedelse\GrafEksamen\GrafEksamen\obj\Debug\GrafEksamen.csprojResolveAssemblyReference.cache
-C:\Users\David\Desktop\EksamensForberedelse\GrafEksamen\GrafEksamen\obj\Debug\GrafEksamen.exe
-C:\Users\David\Desktop\EksamensForberedelse\GrafEksamen\GrafEksamen\obj\Debug\GrafEksamen.pdb
